@@ -6,7 +6,7 @@ export default {
   mounted() {
     
     // todo
-    document.title='&nbsp;'
+    document.title='         '
 
   }
 };
