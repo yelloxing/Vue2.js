@@ -10,6 +10,7 @@ export default {
   mounted() {
     
     // todo
+    document.title='我是菜单'
 
   }
 };
